@@ -1,5 +1,3 @@
-<div align="center">
-
 **Prerequisites:** Node.js
 
 1. Install dependencies:
